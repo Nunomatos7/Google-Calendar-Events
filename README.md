@@ -11,3 +11,4 @@
 
 # Run the program
 - npm start
+![image](https://github.com/Nunomatos7/Google-Calendar-Events/assets/84334113/90c46c13-5cc3-4f1a-bc83-ea6b5f2b3c4e)
